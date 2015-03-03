@@ -6,7 +6,7 @@ description: > # this means to ignore newlines until "baseurl:"
   CloudFormation, Ruby, Perl, Bash, VMware, Solaris, OSX, Agile software
   development, Test-driven development, TDD, Continuous Integration, CI,
   Continuous Delivery, CD, Chef.
-baseurl: "/blog/" # the subpath of your site, e.g. /blog/
+baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "http://liquidchicken.github.io" # the base hostname & protocol for your site
 github_username: jekyll
 
