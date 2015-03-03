@@ -1,0 +1,15 @@
+# Site settings
+title: Fluid Poultry Research Association
+email: setzer@liquidchicken.org
+description: > # this means to ignore newlines until "baseurl:"
+  Infrastructure automation, Linux, Cloud, Amazon Web Services, AWS,
+  CloudFormation, Ruby, Perl, Bash, VMware, Solaris, OSX, Agile software
+  development, Test-driven development, TDD, Continuous Integration, CI,
+  Continuous Delivery, CD, Chef.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://liquidchicken.github.io" # the base hostname & protocol for your site
+github_username: klsetzer
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
