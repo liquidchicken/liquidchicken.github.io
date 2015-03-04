@@ -20,7 +20,7 @@ should be run **continuously** in the production environment.
 
 Benji Weber takes the idea to its logical conclusion by proposing
 
-## [Monitoring Driven Development](http://benjiweber.co.uk/blog/2015/03/02/monitoring-check-smells/)
+#### [Monitoring Driven Development](http://benjiweber.co.uk/blog/2015/03/02/monitoring-check-smells/)
 
 *Sounds like a good idea to me.*
 
