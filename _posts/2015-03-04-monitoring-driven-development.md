@@ -18,9 +18,9 @@ released.  With my team, I have been making the case that monitoring is the
 same as testing.  If a test is important enough for TDD, then that same test
 should be run **continuously** in the production environment.
 
-Benji Weber takes the idea to its logical conclusion by proposing Monitoring Driven Development (MDD):
+Benji Weber takes the idea to its logical conclusion by proposing
 
-http://benjiweber.co.uk/blog/2015/03/02/monitoring-check-smells/
+## [Monitoring Driven Development](http://benjiweber.co.uk/blog/2015/03/02/monitoring-check-smells/)
 
-Sounds like a good idea to me.
+*Sounds like a good idea to me.*
 
