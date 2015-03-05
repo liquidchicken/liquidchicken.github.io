@@ -65,6 +65,7 @@ GEM
       toml (~> 0.1.0)
     jekyll-coffeescript (1.0.1)
       coffee-script (~> 2.2)
+    jekyll-compose (0.2.1)
     jekyll-gist (1.1.0)
     jekyll-mentions (0.2.1)
       html-pipeline (~> 1.9.0)
@@ -107,7 +108,6 @@ GEM
       ffi (>= 0.5.0)
     rdiscount (2.1.7)
     redcarpet (3.1.2)
-    rouge (1.8.0)
     safe_yaml (1.0.4)
     sass (3.4.13)
     terminal-table (1.4.5)
@@ -125,9 +125,11 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages (= 33)
+  jekyll
+  jekyll-compose
   jekyll-mentions
   jekyll-redirect-from
   jekyll-sitemap
   jemoji
   json
-  rouge
+  redcarpet
