@@ -3,7 +3,7 @@ title: Fluid Poultry Research Association
 email: setzer@liquidchicken.org
 description: > # this means to ignore newlines until "baseurl:"
   Techniques, technologies, and clever ideas for Infrastructure Automation,
-  Cloud Computing, Agile, Continuous Integration, and Continuous Delivery.
+  Cloud Computing, Continuous Integration, and Continuous Delivery.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://liquidchicken.org/" # the base hostname & protocol for your site
 github_username: jekyll
