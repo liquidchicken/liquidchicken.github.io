@@ -7,7 +7,6 @@ versions = JSON.parse(open('https://pages.github.com/versions.json').read)
 gem 'github-pages', versions['github-pages']
 
 gem 'jekyll'
-gem 'jekyll-compose'
 
 group :jekyll_plugins do
   gem 'jekyll-mentions'
@@ -15,4 +14,5 @@ group :jekyll_plugins do
   gem 'jekyll-redirect-from'
   gem 'jekyll-sitemap'
   gem 'redcarpet'
+  gem 'pygments.rb'
 end
