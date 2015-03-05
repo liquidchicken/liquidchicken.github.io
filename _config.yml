@@ -8,6 +8,23 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://liquidchicken.org/" # the base hostname & protocol for your site
 github_username: jekyll
 
+jekyll-archives:
+  enabled:
+    - categories
+    - tags
+    - year
+    - month
+  layout: 'archive'
+  layouts:
+    tag: tag-archive-layout
+    year: year-archive
+    month: month-archive
+  permalinks:
+    year: '/:year/'
+    month: '/:year/:month/'
+    day: '/:year/:month/:day/'
+    tag: '/tag/:name/'
+    category: '/category/:name/'
 # Build settings
 markdown: kramdown
 highlighter: pygments
