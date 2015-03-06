@@ -15,4 +15,5 @@ group :jekyll_plugins do
   gem 'jekyll-sitemap'
   gem 'redcarpet'
   gem 'pygments.rb'
+  gem 'jekyll-textile-converter'
 end

@@ -34,3 +34,4 @@ gems:
   - jekyll-redirect-from
   - jekyll-sitemap
   - pygments
+  - jekyll-textile-converter
