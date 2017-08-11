@@ -27,8 +27,8 @@ jekyll-archives:
     category: '/category/:name/'
 # Build settings
 markdown: kramdown
-highlighter: pygments
-gems:
+highlighter: rouge
+plugins:
   - jekyll-mentions
   - jemoji
   - jekyll-redirect-from
