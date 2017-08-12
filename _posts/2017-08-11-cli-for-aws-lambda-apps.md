@@ -15,3 +15,5 @@ The folks at Serverless.com have created a CLI for managing Serverless/Event-dri
 
 **They also have a great blog at [https://serverless.com/blog/](https://serverless.com/blog/)**
 
+Of course, don't forget Amazon's own [AWS Lambda Blog](https://aws.amazon.com/blogs/compute/category/aws-lambda/)
+
