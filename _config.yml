@@ -6,7 +6,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Cloud Computing, and Application Delivery
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://liquidchicken.org/" # the base hostname & protocol for your site
-github_username: jekyll
+github_username: klsetzer
 
 jekyll-archives:
   enabled:
